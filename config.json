@@ -1,0 +1,27 @@
+{
+  "comment": "Leave sims_mods_path_override empty so the script auto-detects your Documents folder. Only use it if your installation is non-standard.",
+  "sims_mods_path_override": "",
+  "source_zips_folder": "./PUT_ZIPS_HERE",
+  "unsorted_folder_name": "unsorted_mods",
+  "rules": {
+    "hair": "(hair|hairstyle|coiffure)",
+    "brows": "(brow|eyebrows)",
+    "eyes": "(eyes|contacts|pupils)",
+    "lashes": "(lashes|eyelashes|3D lashes)",
+    "skin": "(skin|skintone|overlay|skinblend)",
+    "makeup": "(makeup|lipstick|blush|eyeshadow|liner)",
+    "tattoos": "(tattoo|ink)",
+    "body": "(body preset|sliders|bodyshape)",
+    "sliders": "(slider)",
+    "acc": "(acc|accessory|glasses|necklace|earrings|rings|hat|beanie)",
+    "shirts": "(shirt|top|tee|sweater|hoodie|tank|blouse)",
+    "pants": "(pants|trousers|jeans|skirt|shorts|leggings|bottoms)",
+    "shoes": "(shoes|sneakers|boots|sandals|heels)",
+    "full body": "(outfit|costume|dress|jumpsuit|onesie|dress|suit|uniform)",
+    "furniture": "(chair|table|sofa|bed|desk|lamp|rug|shelf|counter)",
+    "poses": "(pose|animation|posepack)",
+    "mods": "(script_mod|overhaul|fix)",
+    "ww animations": "(ww_|wicked|sex)",
+    "merged": "(merged)"
+  }
+}
